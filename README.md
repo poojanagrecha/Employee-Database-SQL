@@ -4,7 +4,8 @@
  A research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
 1. Data Modeling
-    https://github.com/poojanagrecha/Employee-Database-SQL/blob/main/EmployeeSQL/ERD.png
+![Image of ERD Diagram](https://github.com/poojanagrecha/Employee-Database-SQL/blob/main/EmployeeSQL/ERD.png)
+
     
 2. Data Engineering
 A table schema (specifying data types, primary keys, foreign keys, and other constraints) is created for each of the six CSV files and each CSV file is imported into the corresponding SQL table.
