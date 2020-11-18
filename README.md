@@ -5,11 +5,11 @@
 
 The next step is to design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, to perform the following:
 
-Data Modeling
+1. Data Modeling
 
-Data Engineering
+2. Data Engineering
 
-Data Analysis
+3. Data Analysis
 
 <b>Data Modeling</b>
 
@@ -24,19 +24,19 @@ In this step we use the information to create a table schema for each of the six
 
 Once we have a complete database, we run the SQL queries to obtain the following:
 
-List the following details of each employee: employee number, last name, first name, gender, and salary.
+1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
-List employees who were hired in 1986.
+2. List employees who were hired in 1986.
 
-List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
+3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
 
-List the department of each employee with the following information: employee number, last name, first name, and department name.
+4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
-List all employees whose first name is "Hercules" and last names begin with "B."
+5. List all employees whose first name is "Hercules" and last names begin with "B."
 
-List all employees in the Sales department, including their employee number, last name, first name, and department name.
+6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
