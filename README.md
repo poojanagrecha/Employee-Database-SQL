@@ -1,5 +1,5 @@
 # Employee Database SQL
- Created a SQL database for Employee Data and conducted Data Modeling, Data Engineering and Data Analysis on the data uploaded to database.
+ Created an SQL database for Employee Data and conducted Data Modeling, Data Engineering and Data Analysis on the data uploaded to database.
  # Background
  A research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
